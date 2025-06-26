@@ -1,0 +1,20 @@
+﻿<Window x:Class="IntroSE.Kanban.Frontend.View.AddBoardWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add Board" Height="200" Width="350"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Please add board name:" FontSize="16"/>
+        <TextBox x:Name="BoardNameBox" Grid.Row="1" Height="30" Margin="0,10,0,10"/>
+
+        <Button Grid.Row="2" Content="Add" Width="100" Height="30"
+                HorizontalAlignment="Center"
+                Click="Add_Click"/>
+    </Grid>
+</Window>
