@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saarw\\university projects\\\u05E9\u05E0\u05D4 \u05D1 \u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\intro_sw\\mil3_final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC70FC72-B6E1-4F72-92BB-9B8064F204DF}|Frontend\\Frontend.csproj|c:\\users\\saarw\\university projects\\\u05E9\u05E0\u05D4 \u05D1 \u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\intro_sw\\mil3_final\\frontend\\view\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC70FC72-B6E1-4F72-92BB-9B8064F204DF}|Frontend\\Frontend.csproj|solutionrelative:frontend\\view\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC70FC72-B6E1-4F72-92BB-9B8064F204DF}|Frontend\\Frontend.csproj|c:\\users\\saarw\\university projects\\\u05E9\u05E0\u05D4 \u05D1 \u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\intro_sw\\mil3_final\\frontend\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC70FC72-B6E1-4F72-92BB-9B8064F204DF}|Frontend\\Frontend.csproj|solutionrelative:frontend\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC70FC72-B6E1-4F72-92BB-9B8064F204DF}|Frontend\\Frontend.csproj|c:\\users\\saarw\\university projects\\\u05E9\u05E0\u05D4 \u05D1 \u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\intro_sw\\mil3_final\\frontend\\view\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC70FC72-B6E1-4F72-92BB-9B8064F204DF}|Frontend\\Frontend.csproj|solutionrelative:frontend\\view\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC70FC72-B6E1-4F72-92BB-9B8064F204DF}|Frontend\\Frontend.csproj|c:\\users\\saarw\\university projects\\\u05E9\u05E0\u05D4 \u05D1 \u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\intro_sw\\mil3_final\\frontend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC70FC72-B6E1-4F72-92BB-9B8064F204DF}|Frontend\\Frontend.csproj|solutionrelative:frontend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\saarw\\university projects\\\u05E9\u05E0\u05D4 \u05D1 \u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\intro_sw\\mil3_final\\Frontend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Frontend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\saarw\\university projects\\\u05E9\u05E0\u05D4 \u05D1 \u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\intro_sw\\mil3_final\\Frontend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Frontend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAhwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:51:07.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "welcome.xaml",
+              "DocumentMoniker": "C:\\Users\\saarw\\university projects\\\u05E9\u05E0\u05D4 \u05D1 \u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\intro_sw\\mil3_final\\Frontend\\View\\welcome.xaml",
+              "RelativeDocumentMoniker": "Frontend\\View\\welcome.xaml",
+              "ToolTip": "C:\\Users\\saarw\\university projects\\\u05E9\u05E0\u05D4 \u05D1 \u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\intro_sw\\mil3_final\\Frontend\\View\\welcome.xaml",
+              "RelativeToolTip": "Frontend\\View\\welcome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T07:49:01.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "welcome.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\saarw\\university projects\\\u05E9\u05E0\u05D4 \u05D1 \u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\intro_sw\\mil3_final\\Frontend\\View\\welcome.xaml.cs",
+              "RelativeDocumentMoniker": "Frontend\\View\\welcome.xaml.cs",
+              "ToolTip": "C:\\Users\\saarw\\university projects\\\u05E9\u05E0\u05D4 \u05D1 \u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\intro_sw\\mil3_final\\Frontend\\View\\welcome.xaml.cs",
+              "RelativeToolTip": "Frontend\\View\\welcome.xaml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAADgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:47:54.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoardController.cs",
+              "DocumentMoniker": "C:\\Users\\saarw\\university projects\\\u05E9\u05E0\u05D4 \u05D1 \u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\intro_sw\\mil3_final\\Frontend\\Controllers\\BoardController.cs",
+              "RelativeDocumentMoniker": "Frontend\\Controllers\\BoardController.cs",
+              "ToolTip": "C:\\Users\\saarw\\university projects\\\u05E9\u05E0\u05D4 \u05D1 \u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\intro_sw\\mil3_final\\Frontend\\Controllers\\BoardController.cs",
+              "RelativeToolTip": "Frontend\\Controllers\\BoardController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAcwGsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:45:40.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
